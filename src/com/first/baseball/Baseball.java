@@ -33,9 +33,3 @@ public class Baseball {
 		return rArr[idx];
 	}
 }
-
-	
-	
-
-
-
